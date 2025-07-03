@@ -13,6 +13,9 @@ This project focuses on analyzing crime data from Tamil Nadu, India. The main ob
 ## Dataset
 The analysis is based on publicly available datasets, such as those provided by the Government of Tamil Nadu, National Crime Records Bureau (NCRB), or other reliable sources.
 
+## Project File
+https://github.com/muniasamyk/Crime_Data_Analysis/blob/main/crime_data_analysis.ipynb
+
 ## Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
