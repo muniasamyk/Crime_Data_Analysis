@@ -30,6 +30,10 @@ The analysis is based on publicly available datasets, such as those provided by 
 - Visual dashboards and charts for public understanding
 - Predictive analytics for forecasting crime rates
 
+## Report
+![Screenshot 2025-06-26 150047](https://github.com/user-attachments/assets/d2a2ab8c-750d-45e0-8872-58f706b0723d)
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
