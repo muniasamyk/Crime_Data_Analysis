@@ -17,9 +17,9 @@ The analysis is based on publicly available datasets, such as those provided by 
 https://github.com/muniasamyk/Crime_Data_Analysis/blob/main/crime_data_analysis.ipynb
 
 ## Technologies Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
 - Jupyter Notebook
-- GeoPandas (for geographical analysis)
 - Other supporting libraries
 
 ## How to Use
