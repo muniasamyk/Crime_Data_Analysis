@@ -1,44 +1,30 @@
-# Crime_Data_Analysis
+📊 Crime Data Analysis – Tamil Nadu 🚨
 
-## Project Overview
-This project focuses on analyzing crime data from Tamil Nadu, India. The main objective is to identify trends, patterns, and insights from the available crime statistics to support policy making, law enforcement, and public awareness.
+I recently worked on a data analysis project exploring crime statistics in Tamil Nadu, India. The aim was to identify trends, patterns, and insights that can help in policy decisions, law enforcement strategies, and public awareness.
 
-## Features
-- Data cleaning and preprocessing of crime datasets
-- Exploratory data analysis (EDA) with visualizations
-- Time series analysis of various crime categories
-- Geographical mapping of crime incidents
-- Prediction and forecasting using machine learning models
+🔍 Key Features
+✅ Data cleaning & preprocessing
+✅ Exploratory Data Analysis (EDA) with detailed visualizations
+✅ Time-series trends of various crime categories
+✅ Geographical mapping of incidents
 
-## Dataset
-The analysis is based on publicly available datasets, such as those provided by the Government of Tamil Nadu, National Crime Records Bureau (NCRB), or other reliable sources.
+📂 Dataset Sources
+Publicly available datasets from the Government of Tamil Nadu, National Crime Records Bureau (NCRB), and other reliable sources.
 
-## Project File
-https://github.com/muniasamyk/Crime_Data_Analysis/blob/main/crime_data_analysis.ipynb
+🛠 Technologies Used
 
-## Technologies Used
-- Python (Pandas, NumPy, Matplotlib)
-- Power BI
-- Jupyter Notebook
-- Other supporting libraries
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-## How to Use
-1. Clone this repository
-2. Install the required dependencies listed in `requirements.txt`
-3. Run the Jupyter notebooks in sequence for preprocessing, EDA, and modeling
-4. Explore the generated reports and visualizations
+GeoPandas (for spatial mapping)
 
-## Results
-- Key findings about crime trends in Tamil Nadu
-- Visual dashboards and charts for public understanding
-- Predictive analytics for forecasting crime rates
+Power BI (for interactive dashboards & reports)
 
-## Report
-![Screenshot 2025-06-26 150047](https://github.com/user-attachments/assets/d2a2ab8c-750d-45e0-8872-58f706b0723d)
+Jupyter Notebook
 
+📈 Results
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+Identified year-wise and category-wise crime trends
 
-## License
-This project is open source and available under the MIT License.
+Created clear and interactive Power BI dashboards
+
+Highlighted patterns to aid public understanding
